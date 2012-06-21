@@ -1,0 +1,2 @@
+class Permutation
+end
